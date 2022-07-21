@@ -1,0 +1,5 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at EClerx.ASPNET.Day25.Example1.Page_Load(Object sender, EventArgs e) in D:\Training_Demos\eClerx\ASPNET\EClerx.ASPNET.Day25\EClerx.ASPNET.Day25\Example1.aspx.cs:line 15
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
